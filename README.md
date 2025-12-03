@@ -1,0 +1,1 @@
+# Project-Analisis-Data-Kategorik-Model-Regresi-Logistic-Bine
