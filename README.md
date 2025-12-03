@@ -27,8 +27,3 @@ Analisis ini menggunakan beberapa paket R berikut:
 - `ResourceSelection`
 
 Pastikan paket-paket tersebut sudah terpasang sebelum menjalankan skrip.
-
-## Cara Menjalankan
-
-1. Buka file R Markdown (`.Rmd`) di RStudio.
-2. Sesuaikan path file data CPNS 2024 pada bagian:
